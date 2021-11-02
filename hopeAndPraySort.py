@@ -1,3 +1,10 @@
+'''
+Hope and Pray Sort
+
+An implementation / proof of concept of the 'hope and pray' sorting algorithm
+
+*hopeAndPraySort - the implementation of the sorting algorithm; returns either a sorted or unsorted array
+'''
 import random as rand
 def hopeAndPraySort(arr):
     '''
